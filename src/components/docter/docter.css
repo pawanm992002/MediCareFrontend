@@ -1,0 +1,31 @@
+.btns{
+    margin: 10px 5px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(36, 35, 35);
+    padding: 8px 10px;
+}
+.btn{
+    background: linear-gradient(45deg,rgb(235, 184, 184),rgb(192, 243, 192),rgb(190, 190, 237));
+    color: black;
+    margin: 5px;
+}
+.dimage{
+    height: 10em;   
+}
+.field{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.dform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cont{
+    margin: 5px;
+    padding: 5px;
+}

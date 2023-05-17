@@ -1,0 +1,12 @@
+#country_table{
+    
+}
+.thead-dark{
+    background-color: gray;
+}
+
+#country_table{
+    background-color: aquamarine;
+    height: 500px;
+    overflow: scroll;
+}
